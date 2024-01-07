@@ -1,0 +1,19 @@
+function a= CalA(a,x,y)
+    a1 = 1;
+    a2 = y;
+    a3 = y^2;
+    a4 = y^3;
+    a5 = x;
+    a6 = x*y;
+    a7 = x*y^2;
+    a8 = x*y^3;
+    a9 = x^2 ;
+    a10 = x^2*y;
+    a11 = x^2*y^2;
+    a12 = x^2*y^3;
+    a13 = x^3 ;
+    a14 = x^3*y;
+    a15 = x^3*y^2;
+    a16 = x^3*y^3;
+    a = [a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12,a13,a14,a15,a16];
+end
